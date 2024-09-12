@@ -26,7 +26,7 @@ This project provides a set of APIs to manage video reels in a mobile applicatio
 
    ```bash
    git clone https://github.com/hansdamanoj/bmcoders.git
-   cd your-repo
+   cd bmcoders
    ```
 
 2. **Install Dependencies**
