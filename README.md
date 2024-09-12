@@ -65,6 +65,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+
+## Pre requisite Commands to run 
+Run the migration to create the reels table
 php artisan migrate
 
+This will create a symbolic link at public/storage that points to storage/app/public
 php artisan storage:link
