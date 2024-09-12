@@ -68,7 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Pre requisite Commands to run 
 Run the migration to create the reels table
-php artisan migrate
+[ php artisan migrate ]
 
 This will create a symbolic link at public/storage that points to storage/app/public
-php artisan storage:link
+[ php artisan storage:link ]
